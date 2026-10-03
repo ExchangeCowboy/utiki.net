@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#dcecf2" />
+    <meta name="description" content="A quiet, interactive workshop for the stories and experiments of Tim Williams." />
+    <title>Tim's Workshop · Utiki.net</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23dcecf2'/%3E%3Ctext x='32' y='45' text-anchor='middle' font-size='44' fill='%2324333a'%3EU%3C/text%3E%3C/svg%3E" />
+    <script type="module" crossorigin src="./assets/index-BWFN_j9m.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-pMguVEyl.css">
+  </head>
+  <body>
+    <div id="app">
+      <header class="site-header">
+        <a class="brand" href="#room" aria-label="Tim's Workshop, return to room">
+          <span>UTIKI.NET</span>
+          <strong>Tim's Workshop</strong>
+        </a>
+
+      </header>
+      <main id="room" class="scene-shell">
+        <div id="scene" aria-label="Interactive three-dimensional workshop scene">
+          <div class="scene-loading" role="status">Opening the workshop…</div>
+        </div>
+        <div class="scene-wash" aria-hidden="true"></div>
+        <div class="hover-label" id="hover-label" aria-hidden="true"></div>
+        <div class="scene-fallback" id="scene-fallback" hidden>
+          <p>The 3D room couldn’t open here, but every story is still available.</p>
+          <button type="button" class="primary-button" data-open-read>Open reading view</button>
+        </div>
+
+        <nav class="station-rail" aria-label="Stories in the workshop" id="station-rail"></nav>
+        <aside class="resume-card resume-card--scene" id="resume-card" aria-labelledby="resume-card-title">
+          <div class="resume-card-heading">
+            <p class="eyebrow">Resumes</p>
+            <h2 id="resume-card-title">Get to know my work</h2>
+          </div>
+          <nav class="resume-links" aria-label="Read Tim Williams resumes">
+            <a href="./resumes/tim.williams.el.pdf" data-resume="engineering">Engineering Leader</a>
+            <a href="./resumes/tim.williams.ops.pdf" data-resume="operations">Operations Leader</a>
+            <a href="./resumes/tim.williams.itm.pdf" data-resume="it-manager">IT Manager</a>
+          </nav>
+        </aside>
+      </main>
+      <section class="read-view" id="read-view" aria-labelledby="read-title" hidden>
+        <div class="read-header">
+          <div>
+            <p class="eyebrow">All six stories</p>
+            <h1 id="read-title" tabindex="-1">Notes from the workshop</h1>
+          </div>
+          <button type="button" class="quiet-button" data-close-read>Back to the room</button>
+        </div>
+        <p class="read-intro">Technology, leadership, family, and a future worth helping to build. Choose any notebook below; the full text opens in a focused reading panel.</p>
+        <div class="story-grid" id="story-grid"></div>
+      </section>
+      <nav class="control-dock" aria-label="Workshop controls">
+        <button class="dock-button is-active" id="explore-button" type="button" aria-pressed="true">Explore</button>
+        <button class="dock-button" id="read-button" type="button" aria-pressed="false">Read</button>
+        <button class="dock-button return-button" id="return-button" type="button">Return room</button>
+        <span class="dock-divider" aria-hidden="true"></span>
+        <button class="dock-button is-active" id="sound-button" type="button" aria-label="Turn off workshop music" aria-pressed="true">Sound</button>
+        <label class="volume-control" for="volume"><span>Volume</span><input id="volume" type="range" min="0" max="0.5" value="0.15" step="0.01" /></label>
+      </nav>
+    </div>
+    <dialog class="story-dialog" id="story-dialog" aria-labelledby="story-title">
+      <article class="story-panel">
+        <header class="story-heading">
+          <div>
+            <p class="eyebrow" id="story-station"></p>
+            <h2 id="story-title"></h2>
+          </div>
+          <button class="story-close" type="button" aria-label="Close story">Close</button>
+        </header>
+        <div class="story-copy" id="story-copy"></div>
+        <footer class="story-footer">
+          <button class="quiet-button" type="button" data-story-prev>Previous story</button>
+          <span id="story-position" aria-live="polite"></span>
+          <button class="quiet-button" type="button" data-story-next>Next story</button>
+        </footer>
+      </article>
+    </dialog>
+    <dialog class="resume-dialog" id="resume-dialog" aria-labelledby="resume-title">
+      <article class="resume-reader">
+        <header class="resume-reader-header">
+          <div>
+            <p class="eyebrow">Resume</p>
+            <h2 id="resume-title"></h2>
+          </div>
+          <div class="resume-reader-actions">
+            <a class="primary-button resume-download" id="resume-download" href="./resumes/tim.williams.el.pdf" download>Download PDF</a>
+            <button class="resume-close" type="button" aria-label="Close resume">Close</button>
+          </div>
+        </header>
+        <div class="resume-pages" id="resume-pages"></div>
+        <div class="visually-hidden resume-transcript" id="resume-transcript" aria-label="Extracted resume text"></div>
+      </article>
+    </dialog>
+    <noscript><p class="noscript">This workshop needs JavaScript for the 3D room. The approved story files remain available in the source package.</p></noscript>
+  </body>
+</html>

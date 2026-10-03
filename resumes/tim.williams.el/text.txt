@@ -1,0 +1,104 @@
+Tim Williams
+ENGINEERING LEADER
+O’Fallon, MO | 636.312.7555 | tim@utiki.net | utiki.net | linkedin.com/in/twilli
+
+
+
+I build strong teams, improve operating models, and accelerate technology adoption. Over 30 years, I have led infrastructure,
+operations, and software engineering organizations ranging from 7 to 250 people. My work has reduced costs, eliminated
+operational toil, improved customer outcomes, and strengthened team engagement.
+
+
+                   $1M+                                      96%                                     15,000+
+            ANNUAL COST SAVINGS                  POSITIVE TEAM ENGAGEMENT                    HOURS ELIMINATED / YEAR
+
+
+CAREER HIGHLIGHTS
+    •   Led global infrastructure serving 20,000 customers across enterprise, managed-service, and private-cloud environments.
+    •   Built and scaled a 24/7 Tier 1–3 technical support operation from 7 to 250 people, including the leadership structure and
+        service model for a 250-seat support center.
+    •   Published a Microsoft white paper on the manual reinstallation of the Ceres indexer for Exchange and Microsoft SQL
+        environments.
+
+
+EXPERIENCE
+
+        Securian Financial · Senior Manager, Engineering · Remote · 07/2022 – 09/2026
+
+        •   Reduced annual operating costs by more than $1M (26%) through vendor consolidation, infrastructure optimization,
+            team redeployment, and process improvement.
+        •   Expanded responsibility from 3 to 4 engineering teams across web infrastructure, CMS, mobile, and digital operations
+            while achieving 96% positive team engagement.
+        •   Led campaign automation efforts that eliminated more than 15,000 hours of annual work across Engineering and
+            Marketing.
+        •   Spearheaded enterprise AI adoption by evaluating and implementing 15+ tools and educating executives on GenAI
+            capabilities and use cases.
+        UFS, LLC · Infrastructure Engineering Manager · Remote · 01/2021 – 03/2022
+
+        •   Increased customer satisfaction from 80% to 93% by standardizing engineering practices and improving response
+            times.
+        •   Led an 11-person infrastructure engineering organization across systems, networking, virtualization, and storage.
+        •   Rebuilt the systems engineering discipline, establishing multiple infrastructure teams and contributing to core
+            architecture design.
+        Zerolag / Performive · Manager of Systems Engineering · Remote · 06/2016 – 12/2020
+
+        •   Served as a working manager for a private cloud provider supporting DevOps, systems, networking, virtualization,
+            Windows, and Linux engineering disciplines.
+        •   Led infrastructure delivery for 13 new data centers as part of a private cloud platform expansion.
+        •   Led an ITIL/ITSM operational excellence program that reduced incidents by 30% and improved uptime from 99.6% to
+            99.99% over two years.
+
+                                                              Tim Williams · Engineering Leader · tim@utiki.net · 636.312.7555
+EXPERIENCE (Cont.)
+
+
+      Novaant · Owner · Remote · 04/2012 – 06/2016
+      •   Led a global engineering team from presales through implementation, with responsibility for customer architecture
+          and delivery.
+      •   Designed and implemented a $200M, 300-host data center in Be’er Sheva, Israel, centered on web, Microsoft
+          Exchange, and Active Directory.
+
+
+ADDITIONAL EXPERIENCE
+      Novus International · Network Infrastructure Engineer · 12/2008 – 04/2012
+      Citi, Real Estate Division · IT Security Administrator · 07/2007 – 12/2008
+      321 Studios / FIG · Technical Support Manager · 07/2001 – 07/2007
+      MAXX Technical Computer Services · Owner · 07/1996 – 07/2001
+      MAXX Technical Computer Services · Technician · 05/1995 – 07/1996
+
+
+CORE CAPABILITIES
+
+      LEADERSHIP & ORGANIZATIONAL DEVELOPMENT
+      Engineering leadership, multi-team leadership, organizational transformation, talent development, operating model
+      design, budget ownership, vendor management, cost optimization, incident management, and operational excellence.
+
+      AI, AUTOMATION & DIGITAL PLATFORMS
+      Generative AI strategy, enterprise AI adoption, AI-assisted automation, Claude, ChatGPT, Gemini, Grok, Llama, Gemma,
+      Codex, Claude Code, Hermes, Adobe Experience Manager, martech, mobile, web infrastructure, and design systems.
+
+      INFRASTRUCTURE & CLOUD
+      VMware vSphere, Hyper-V, Azure, Azure Virtual Desktop, private cloud, hybrid cloud, cloud migration, high availability,
+      disaster recovery, business continuity, SAN, NAS, Veeam, Commvault, and datacenter architecture.
+
+      MICROSOFT & IDENTITY
+      Windows Server, Exchange, Exchange Online, Microsoft 365, Active Directory, Group Policy, Entra ID, ADFS, SSO, MFA, PKI,
+      LDAP, SQL Server, and PowerShell.
+
+      NETWORKING, SECURITY & OPERATIONS
+      TCP/IP, DNS, DHCP, WAN/LAN, VPN, switching, routing, vulnerability management, endpoint security, HIPAA, SOX, PCI-
+      DSS, SOC 2, ITIL, ITSM, ServiceNow, Jira, SolarWinds, Nagios, CMDB, change management, and major incident response.
+
+      DOCUMENTATION & EXECUTIVE COMMUNICATION
+      Architecture documentation, runbooks, process documentation, knowledge management, executive reporting,
+      SharePoint, Confluence, Microsoft Teams, and stakeholder communication.
+
+
+EDUCATION & CERTIFICATIONS
+      ITIL v3 Foundations | Veeam Sales Professional (VSP) | Vatterott College – technical coursework
+
+
+
+
+                                                            Tim Williams · Engineering Leader · tim@utiki.net · 636.312.7555
+
